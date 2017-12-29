@@ -1,0 +1,6 @@
+framework module Pods_RCEmojiKit_Example {
+  umbrella header "Pods-RCEmojiKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

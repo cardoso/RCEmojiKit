@@ -1,0 +1,6 @@
+framework module Pods_RCEmojiKit_Tests {
+  umbrella header "Pods-RCEmojiKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

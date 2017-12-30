@@ -1,0 +1,6 @@
+framework module RCEmojiKit {
+  umbrella header "RCEmojiKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

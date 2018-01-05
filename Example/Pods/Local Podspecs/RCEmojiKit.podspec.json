@@ -1,8 +1,8 @@
 {
   "name": "RCEmojiKit",
   "version": "0.1.0",
-  "summary": "A short description of RCEmojiKit.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Rocket.Chat's iOS toolkit for dealing with emojis",
+  "description": "This is Rocket.Chat's toolkit for dealing with emojis.\n\nIt contains code for common emoji-related tasks like translating emoji shortnames into their unicode representation (eg. :cowboy: -> 🤠.) and UI components for picking emojis, reactions and others",
   "homepage": "https://github.com/cardoso/RCEmojiKit",
   "license": {
     "type": "MIT",

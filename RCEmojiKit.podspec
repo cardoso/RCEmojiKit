@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RCEmojiKit'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RCEmojiKit.'
+  s.summary          = 'Rocket.Chat\'s iOS toolkit for dealing with emojis'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,9 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'This is Rocket.Chat\'s toolkit for dealing with emojis.
+
+It contains code for common emoji-related tasks like translating emoji shortnames into their unicode representation (eg. :cowboy: -> 🤠.) and UI components for picking emojis, reactions and others'
 
   s.homepage         = 'https://github.com/cardoso/RCEmojiKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
